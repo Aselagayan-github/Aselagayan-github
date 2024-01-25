@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aselagayan-github?tab=repositories](https://github.com/Aselagayan-github?tab=repositories)
 
-- 💬 Ask me about **Java,C++,Python,HTML,CSS,JS,Anguler,PHP,Joomla,Figma,Boostrap**
+- 💬 Ask me about **Java,C++,Python,HTML,CSS,JS,Anguler,PHP,Joomla,Figma,Boostrap,C#,Asp.net,SQL,wampserver,XAMPP**
 
 - 📫 How to reach me **aselagayan1010@gmail.com**
 
