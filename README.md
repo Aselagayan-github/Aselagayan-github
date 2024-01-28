@@ -5,6 +5,7 @@
 <img align="right" alt="coding" width="400" src="animate.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aselagayan-github&label=Profile%20views&color=0e75b6&style=flat" alt="aselagayan-github" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aselagayan" alt="aselagayan" /></a> </p>
 
 - 🌱 I’m currently learning **Bachelor of computer science and Full strack Development**
 
