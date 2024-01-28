@@ -5,7 +5,8 @@
 <img align="right" alt="coding" width="400" src="animate.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aselagayan-github&label=Profile%20views&color=0e75b6&style=flat" alt="aselagayan-github" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aselagayan" alt="aselagayan" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **Bachelor of computer science and Full strack Development**
 
@@ -21,6 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/asela gayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asela gayan" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.asela_gayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.asela_gayan" height="30" width="40" /></a>
+<a href="https://fb.com/Asela Gayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Asela Gayan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
