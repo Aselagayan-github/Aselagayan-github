@@ -26,8 +26,8 @@ jobs:
 
       - name: Commit and push snake SVGs to main
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "Aselagayan-github"
+          git config user.email "Aselagayan-github@github.com"
           git add snake/
           git diff --staged --quiet || git commit -m "chore: update snake SVG [skip ci]"
           git push
