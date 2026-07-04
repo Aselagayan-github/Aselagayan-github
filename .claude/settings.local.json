@@ -2,7 +2,18 @@
   "permissions": {
     "allow": [
       "WebFetch(domain:www.linkedin.com)",
-      "Bash(file \"C:/Users/Asela Gayan/Downloads/Aselagayan-github\"/*)"
+      "Bash(file \"C:/Users/Asela Gayan/Downloads/Aselagayan-github\"/*)",
+      "Bash(powershell *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(gh auth *)",
+      "Bash(git config *)",
+      "Bash(cmdkey /delete:LegacyGeneric:target=git:https://github.com)",
+      "Bash(cmdkey /delete:LegacyGeneric:target=https://github.com)",
+      "Bash(git credential *)",
+      "WebFetch(domain:github-profile-trophy.vercel.app)",
+      "WebFetch(domain:raw.githubusercontent.com)"
     ]
   }
 }
