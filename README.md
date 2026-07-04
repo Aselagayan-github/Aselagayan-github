@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1100&color=00FFFF&center=true&vCenter=true&width=800&height=55&lines=☕+A+tool+for+converting+caffeine+into+code;🟣+Odoo+Software+Engineer+%7C+ERP+Specialist+%7C+2%2B+Years;🏆+BSc+Hons+Software+Engineering+—+First+Class+Honours;🔌+REST+API+Developer+%7C+Postman+Certified;🚀+Full+Stack+Dev+%7C+Python+%7C+Java+%7C+Angular+%7C+ASP.NET;💡+Education+has+a+power+to+change+your+life;🤝+Open+to+collaborate+%26+build+amazing+things" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1100&color=00FFFF&center=true&vCenter=true&width=800&height=55&lines=%E2%98%95+A+tool+for+converting+caffeine+into+code;%F0%9F%9F%A3+Odoo+Software+Engineer+%7C+ERP+Specialist+%7C+2%2B+Years;%F0%9F%8F%86+BSc+Hons+Software+Engineering+%E2%80%94+First+Class+Honours;%F0%9F%94%8C+REST+API+Developer+%7C+Postman+Certified;%F0%9F%9A%80+Full+Stack+Dev+%7C+Python+%7C+Java+%7C+Angular+%7C+ASP.NET;%F0%9F%92%A1+Education+has+a+power+to+change+your+life;%F0%9F%A4%9D+Open+to+collaborate+%26+build+amazing+things" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=52&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20%20ABOUT%20ME&fontSize=22&fontColor=00FFFF&fontAlign=50&fontAlignY=55" width="100%" alt="about"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=52&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20%20ABOUT%20ME&fontSize=22&fontColor=00FFFF&fontAlign=50&fontAlignY=55" width="100%" alt="about"/>
 </p>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="14">
@@ -87,7 +87,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,20&height=52&text=%F0%9F%9A%80%20%20PROFESSIONAL%20EXPERIENCE&fontSize=22&fontColor=C0C0FF&fontAlign=50&fontAlignY=55" width="100%" alt="experience"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,20&height=52&text=%F0%9F%9A%80%20%20PROFESSIONAL%20EXPERIENCE&fontSize=22&fontColor=C0C0FF&fontAlign=50&fontAlignY=55" width="100%" alt="experience"/>
 </p>
 
 <br/>
@@ -174,7 +174,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,6,20&height=52&text=%F0%9F%9B%A0%EF%B8%8F%20%20TECH%20STACK%20%26%20TOOLS&fontSize=22&fontColor=00FFFF&fontAlign=50&fontAlignY=55" width="100%" alt="tech"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,6,20&height=52&text=%F0%9F%9B%A0%EF%B8%8F%20%20TECH%20STACK%20%26%20TOOLS&fontSize=22&fontColor=00FFFF&fontAlign=50&fontAlignY=55" width="100%" alt="tech"/>
 </p>
 
 <br/>
@@ -247,7 +247,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,20&height=52&text=%F0%9F%8F%85%20%20CERTIFICATIONS%20%26%20BADGES&fontSize=22&fontColor=FFD700&fontAlign=50&fontAlignY=55" width="100%" alt="certs"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,20,20&height=52&text=%F0%9F%8F%85%20%20CERTIFICATIONS%20%26%20BADGES&fontSize=22&fontColor=FFD700&fontAlign=50&fontAlignY=55" width="100%" alt="certs"/>
 </p>
 
 <br/>
@@ -315,7 +315,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=52&text=%F0%9F%93%8A%20%20GITHUB%20STATISTICS&fontSize=22&fontColor=00FFFF&fontAlign=50&fontAlignY=55" width="100%" alt="stats"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=52&text=%F0%9F%93%8A%20%20GITHUB%20STATISTICS&fontSize=22&fontColor=00FFFF&fontAlign=50&fontAlignY=55" width="100%" alt="stats"/>
 </p>
 
 <br/>
@@ -323,7 +323,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="6">
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aselagayan-github&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=C0C0FF&text_color=FFFFFF&ring_color=00FFFF&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=21600" alt="GitHub Stats" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aselagayan-github&theme=tokyonight" alt="GitHub Stats" width="100%"/>
 </td>
 <td width="50%" align="center">
   <img src="https://streak-stats.demolab.com/?user=aselagayan-github&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=FF6EC7&currStreakLabel=00FFFF&sideLabels=C0C0FF&dates=FFFFFF&cache_seconds=21600" alt="GitHub Streak" width="100%"/>
@@ -331,7 +331,7 @@
 </tr>
 <tr>
 <td colspan="2" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aselagayan-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=12&cache_seconds=21600" alt="Top Programming Languages" width="55%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aselagayan-github&theme=tokyonight" alt="Top Programming Languages" width="55%"/>
 </td>
 </tr>
 </table>
@@ -364,17 +364,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,20&height=52&text=%F0%9F%8F%86%20%20ACHIEVEMENTS&fontSize=22&fontColor=FFD700&fontAlign=50&fontAlignY=55" width="100%" alt="trophies"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,20,20&height=52&text=%F0%9F%8F%86%20%20ACHIEVEMENTS&fontSize=22&fontColor=FFD700&fontAlign=50&fontAlignY=55" width="100%" alt="trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aselagayan-github&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=12&margin-h=12" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aselagayan-github&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="GitHub Trophies" width="100%"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,6,20&height=52&text=%F0%9F%93%88%20%20CONTRIBUTION%20TIMELINE&fontSize=22&fontColor=00FFFF&fontAlign=50&fontAlignY=55" width="100%" alt="activity"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,6,20&height=52&text=%F0%9F%93%88%20%20CONTRIBUTION%20TIMELINE&fontSize=22&fontColor=00FFFF&fontAlign=50&fontAlignY=55" width="100%" alt="activity"/>
 </p>
 
 <p align="center">
@@ -384,7 +384,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,20&height=52&text=%F0%9F%90%8D%20%20CONTRIBUTION%20SNAKE&fontSize=22&fontColor=C0C0FF&fontAlign=50&fontAlignY=55" width="100%" alt="snake"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,20&height=52&text=%F0%9F%90%8D%20%20CONTRIBUTION%20SNAKE&fontSize=22&fontColor=C0C0FF&fontAlign=50&fontAlignY=55" width="100%" alt="snake"/>
 </p>
 
 <p align="center">
@@ -398,7 +398,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=52&text=%F0%9F%8C%90%20%20LET%27S%20CONNECT&fontSize=22&fontColor=FF6EC7&fontAlign=50&fontAlignY=55" width="100%" alt="connect"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=52&text=%F0%9F%8C%90%20%20LET%27S%20CONNECT&fontSize=22&fontColor=FF6EC7&fontAlign=50&fontAlignY=55" width="100%" alt="connect"/>
 </p>
 
 <br/>
