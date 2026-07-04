@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=ASELA%20GAYAN&fontSize=68&fontColor=00FFFF&fontAlignY=36&desc=Odoo%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=56&descSize=19&descColor=C0C0FF&animation=fadeIn" width="100%" alt="header"/>
 </p>
 
