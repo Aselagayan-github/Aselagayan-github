@@ -88,37 +88,70 @@
 
 <br/>
 
-<table width="100%" border="0" cellspacing="4" cellpadding="10">
-<tr>
-<td width="100%" valign="top">
-
-<p>
-  <img src="https://img.shields.io/badge/🟣_ODOO%20SOFTWARE%20ENGINEER-2022%20–%20Present%20%7C%202%2B%20Years-7C3AED?style=for-the-badge&labelColor=1A0030" alt="odoo role"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Experience-2%2B%20Years%20Professional-00FFFF?style=for-the-badge&labelColor=0D1117" alt="exp"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Full%20Time-Active-00FF7F?style=flat-square&labelColor=0D1117" alt="status"/>
+  <img src="https://img.shields.io/badge/Status-Currently%20Active-00FF7F?style=for-the-badge&labelColor=0D1117" alt="active"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0-FF6EC7?style=for-the-badge&labelColor=0D1117" alt="location"/>
 </p>
 
-```
-🔹 Custom Odoo module development (v12 / v15 / v16 / v17 / v18 / v19)
-🔹 ERP system configuration, implementation & support
-🔹 REST API & JSON-RPC integration with third-party systems
-🔹 Python backend logic, ORM, controllers & scheduled actions
-🔹 OWL (Odoo Web Library) frontend component development
-🔹 XML views — form, tree, kanban, report templates
-🔹 PostgreSQL database design & query optimisation
-🔹 Business process automation & workflow customisation
-🔹 Client requirement gathering, analysis & solution delivery
-🔹 API testing & documentation using Postman
-```
+<br/>
+
+<table width="100%" border="1" cellspacing="0" cellpadding="14">
+<tr>
+<td>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="py"/>
+  <img src="https://img.shields.io/badge/🟣_ODOO%20SOFTWARE%20ENGINEER-Full%20Time%20%7C%202022%20–%20Present-7C3AED?style=for-the-badge&labelColor=1A0030" alt="odoo role"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/●%20ACTIVE-2%2B%20Years-00FF7F?style=flat-square&labelColor=0D1117" alt="active"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Versions-v12%20%7C%20v15%20%7C%20v16%20%7C%20v17%20%7C%20v18%20%7C%20v19-714B67?style=flat-square&logo=odoo&logoColor=white&labelColor=0D1117" alt="versions"/>
+</p>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td width="50%" valign="top">
+
+```
+⚡ Core ERP Development
+────────────────────────────────────
+🔹 Custom Odoo module development
+   v12 / v15 / v16 / v17 / v18 / v19
+🔹 ERP configuration & implementation
+🔹 Python ORM, controllers & CRON
+🔹 OWL (Odoo Web Library) components
+🔹 XML views: form, tree, kanban
+🔹 QWeb report & email templates
+```
+
+</td>
+<td width="50%" valign="top">
+
+```
+🔌 Integrations & Delivery
+────────────────────────────────────
+🔹 REST API & JSON-RPC integration
+🔹 Third-party system connectivity
+🔹 PostgreSQL design & optimisation
+🔹 Business process automation
+🔹 Workflow & approval customisation
+🔹 Postman API testing & docs
+```
+
+</td>
+</tr>
+</table>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,git&theme=dark" height="28"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white&labelColor=0D1117" alt="odoo"/>
   <img src="https://img.shields.io/badge/OWL-C0C0FF?style=flat-square&labelColor=0D1117" alt="owl"/>
   <img src="https://img.shields.io/badge/XML-FF6600?style=flat-square&labelColor=0D1117" alt="xml"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117" alt="pg"/>
   <img src="https://img.shields.io/badge/REST%20API-00FFFF?style=flat-square&labelColor=0D1117" alt="rest"/>
-  <img src="https://img.shields.io/badge/JSON--RPC-FF6EC7?style=flat-square&labelColor=0D1117" alt="jsonrpc"/>
+  <img src="https://img.shields.io/badge/JSON--RPC-FF6EC7?style=flat-square&labelColor=0D1117" alt="rpc"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0D1117" alt="postman"/>
 </p>
 
@@ -128,9 +161,13 @@
 
 <br/>
 
-<table width="100%" border="0" cellspacing="4" cellpadding="10">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%" valign="top">
+
+<td width="49%" valign="top">
+<table width="100%" border="1" cellspacing="0" cellpadding="12">
+<tr>
+<td valign="top">
 
 <p>
   <img src="https://img.shields.io/badge/🌐_FULL%20STACK%20DEVELOPER-Freelance%20%26%20Projects-0EA5E9?style=for-the-badge&labelColor=001A30" alt="fullstack"/>
@@ -138,15 +175,29 @@
 
 ```
 🔹 Angular SPA development
-🔹 ASP.NET Web API backend
+🔹 ASP.NET Core Web API backend
 🔹 PHP & Joomla CMS solutions
 🔹 Mobile apps with Flutter
 🔹 Android native development
-🔹 Bootstrap & responsive UI
+🔹 Bootstrap & responsive UI/UX
+🔹 REST API design & integration
 ```
 
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,dotnet,php,flutter,bootstrap,js&theme=dark" height="24"/>
+</p>
+
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+</td>
+
+<td width="2%">&nbsp;</td>
+
+<td width="49%" valign="top">
+<table width="100%" border="1" cellspacing="0" cellpadding="12">
+<tr>
+<td valign="top">
 
 <p>
   <img src="https://img.shields.io/badge/🎓_EDUCATION-First%20Class%20Honours-FFD700?style=for-the-badge&labelColor=1A1400" alt="education"/>
@@ -157,13 +208,23 @@
    First Class Honours Graduate
 
 📚 Key Modules:
-   Software Architecture · Database Systems
+   Software Architecture · DB Systems
    Web Development · Mobile Computing
    API Design · Agile Methodologies
    Cloud Computing · Cyber Security
 ```
 
+<p>
+  <img src="https://img.shields.io/badge/Grade-First%20Class-FFD700?style=flat-square&labelColor=0D1117" alt="grade"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Award-Academic%20Excellence-C0C0FF?style=flat-square&labelColor=0D1117" alt="award"/>
+</p>
+
 </td>
+</tr>
+</table>
+</td>
+
 </tr>
 </table>
 
