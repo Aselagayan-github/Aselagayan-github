@@ -70,7 +70,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🟣_Odoo-16%20%2F%2017-714B67?style=flat-square&labelColor=0D1117" alt="odoo"/>
+<img src="https://img.shields.io/badge/🟣_Odoo-v12%20%7C%20v15%20%7C%20v16%20%7C%20v17%20%7C%20v18%20%7C%20v19-714B67?style=flat-square&labelColor=0D1117" alt="odoo"/>
 <img src="https://img.shields.io/badge/🐍_Python-Expert-3776AB?style=flat-square&labelColor=0D1117&logo=python&logoColor=white" alt="python"/>
 <br/>
 <img src="https://img.shields.io/badge/🔌_REST_API-Developer-FF6EC7?style=flat-square&labelColor=0D1117" alt="api"/>
@@ -99,7 +99,7 @@
 </p>
 
 ```
-🔹 Custom Odoo module development (v14 / v16 / v17)
+🔹 Custom Odoo module development (v12 / v15 / v16 / v17 / v18 / v19)
 🔹 ERP system configuration, implementation & support
 🔹 REST API & JSON-RPC integration with third-party systems
 🔹 Python backend logic, ORM, controllers & scheduled actions
@@ -177,9 +177,12 @@
   <img src="https://img.shields.io/badge/🟣_ODOO_%26_ERP_STACK-Core%20Expertise-7C3AED?style=for-the-badge&labelColor=1A0030" alt="odoo stack"/>
 </h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Odoo%2014-714B67?style=for-the-badge&logo=odoo&logoColor=white&labelColor=0D1117" alt="odoo14"/>
+  <img src="https://img.shields.io/badge/Odoo%2012-714B67?style=for-the-badge&logo=odoo&logoColor=white&labelColor=0D1117" alt="odoo12"/>
+  <img src="https://img.shields.io/badge/Odoo%2015-714B67?style=for-the-badge&logo=odoo&logoColor=white&labelColor=0D1117" alt="odoo15"/>
   <img src="https://img.shields.io/badge/Odoo%2016-714B67?style=for-the-badge&logo=odoo&logoColor=white&labelColor=0D1117" alt="odoo16"/>
   <img src="https://img.shields.io/badge/Odoo%2017-714B67?style=for-the-badge&logo=odoo&logoColor=white&labelColor=0D1117" alt="odoo17"/>
+  <img src="https://img.shields.io/badge/Odoo%2018-714B67?style=for-the-badge&logo=odoo&logoColor=white&labelColor=0D1117" alt="odoo18"/>
+  <img src="https://img.shields.io/badge/Odoo%2019-714B67?style=for-the-badge&logo=odoo&logoColor=white&labelColor=0D1117" alt="odoo19"/>
   <img src="https://img.shields.io/badge/OWL_Framework-C0C0FF?style=for-the-badge&labelColor=0D1117" alt="owl"/>
   <img src="https://img.shields.io/badge/XML_Views-FF6600?style=for-the-badge&labelColor=0D1117" alt="xml"/>
   <img src="https://img.shields.io/badge/QWeb_Templates-FF9500?style=for-the-badge&labelColor=0D1117" alt="qweb"/>
@@ -289,7 +292,7 @@
 
 ```
 🟣 Odoo Technical Expertise
-   v14 / v16 / v17
+   v12 / v15 / v16 / v17 / v18 / v19
 
 ✅ Module Development
 ✅ ERP Implementation
@@ -358,7 +361,7 @@
 <table align="center" border="0" cellspacing="12" cellpadding="10">
 <tr>
 <td align="center">
-  <img src="https://img.shields.io/badge/ODOO%20EXPERT-v14%20%7C%20v16%20%7C%20v17-7C3AED?style=for-the-badge&logo=odoo&logoColor=white&labelColor=1A0030" alt="Odoo Expert"/>
+  <img src="https://img.shields.io/badge/ODOO%20EXPERT-v12%20%7C%20v15%20%7C%20v16%20%7C%20v17%20%7C%20v18%20%7C%20v19-7C3AED?style=for-the-badge&logo=odoo&logoColor=white&labelColor=1A0030" alt="Odoo Expert"/>
 </td>
 <td align="center">
   <img src="https://img.shields.io/badge/FIRST%20CLASS-HONOURS%20GRADUATE-FFD700?style=for-the-badge&labelColor=1A1400" alt="First Class Honours"/>
@@ -386,18 +389,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aselagayan-github&bg_color=0D1117&color=00FFFF&line=C0C0FF&point=FF6EC7&area=true&area_color=1A1A2E&hide_border=true&custom_title=Asela%27s%20Contribution%20Timeline" alt="Contribution Graph" width="100%"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
-<div align="center"><h3>🐍 CONTRIBUTION SNAKE</h3></div>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aselagayan-github/Aselagayan-github/main/snake/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aselagayan-github/Aselagayan-github/main/snake/github-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Aselagayan-github/Aselagayan-github/main/snake/github-snake.svg" width="100%"/>
-  </picture>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
