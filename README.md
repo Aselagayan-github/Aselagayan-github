@@ -1,21 +1,13 @@
-<!-- ============================================================
-     ASELA GAYAN — GitHub Profile README  v2.0
-     Theme: Dark Cyberpunk / Neon  |  Multi-color sections
-     ============================================================ -->
-
-<!-- ██████████████████  HEADER  ██████████████████ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=ASELA%20GAYAN&fontSize=68&fontColor=00FFFF&fontAlignY=36&desc=Odoo%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=56&descSize=19&descColor=C0C0FF&animation=fadeIn" width="100%" alt="header"/>
 </p>
 
-<!-- TYPING INTRO -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1100&color=00FFFF&center=true&vCenter=true&width=800&height=55&lines=☕+A+tool+for+converting+caffeine+into+code;🟣+Odoo+Software+Engineer+%7C+ERP+Specialist+%7C+2%2B+Years;🏆+BSc+Hons+Software+Engineering+—+First+Class+Honours;🔌+REST+API+Developer+%7C+Postman+Certified;🚀+Full+Stack+Dev+%7C+Python+%7C+Java+%7C+Angular+%7C+ASP.NET;💡+Education+has+a+power+to+change+your+life;🤝+Open+to+collaborate+%26+build+amazing+things" alt="Typing SVG"/>
   </a>
 </p>
 
-<!-- Profile badges row -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aselagayan-github&label=Profile+Views&color=00FFFF&style=for-the-badge&labelColor=0D1117" alt="views"/>
   &nbsp;
@@ -28,7 +20,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ██████████████████  ABOUT ME  ██████████████████ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=52&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20%20ABOUT%20ME&fontSize=22&fontColor=00FFFF&fontAlign=50&fontAlignY=55" width="100%" alt="about"/>
 </p>
@@ -81,7 +72,6 @@
 
 <br/><br/>
 
-<!-- Quick-info chips -->
 <img src="https://img.shields.io/badge/🟣_Odoo-16%20%2F%2017-714B67?style=flat-square&labelColor=0D1117" alt="odoo"/>
 <img src="https://img.shields.io/badge/🐍_Python-Expert-3776AB?style=flat-square&labelColor=0D1117&logo=python&logoColor=white" alt="python"/>
 <br/>
@@ -96,7 +86,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ██████████████████  EXPERIENCE  ██████████████████ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,20&height=52&text=%F0%9F%9A%80%20%20PROFESSIONAL%20EXPERIENCE&fontSize=22&fontColor=C0C0FF&fontAlign=50&fontAlignY=55" width="100%" alt="experience"/>
 </p>
@@ -105,7 +94,6 @@
 
 <table width="100%" border="0" cellspacing="4" cellpadding="10">
 <tr>
-<!-- Card 1: Odoo -->
 <td width="100%" valign="top">
 
 <p>
@@ -170,7 +158,7 @@
 
 ```
 🏆 BSc Hons Software Engineering
-   First Class Honours
+   First Class Honours Graduate
 
 📚 Key Modules:
    Software Architecture · Database Systems
@@ -185,14 +173,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ██████████████████  TECH STACK  ██████████████████ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,6,20&height=52&text=%F0%9F%9B%A0%EF%B8%8F%20%20TECH%20STACK%20%26%20TOOLS&fontSize=22&fontColor=00FFFF&fontAlign=50&fontAlignY=55" width="100%" alt="tech"/>
 </p>
 
 <br/>
 
-<!-- Odoo & ERP -->
 <h4 align="center">
   <img src="https://img.shields.io/badge/🟣_ODOO_%26_ERP_STACK-Core%20Expertise-7C3AED?style=for-the-badge&labelColor=1A0030" alt="odoo stack"/>
 </h4>
@@ -206,7 +192,6 @@
   <img src="https://img.shields.io/badge/JSON--RPC-00FFFF?style=for-the-badge&labelColor=0D1117" alt="jsonrpc"/>
 </p>
 
-<!-- API & Testing -->
 <h4 align="center">
   <img src="https://img.shields.io/badge/🔌_API_DEVELOPMENT_%26_TESTING-Specialist-FF6C37?style=for-the-badge&labelColor=200800" alt="api"/>
 </h4>
@@ -220,7 +205,6 @@
   <img src="https://img.shields.io/badge/Webhook-Integration-C0C0FF?style=for-the-badge&labelColor=0D1117" alt="webhook"/>
 </p>
 
-<!-- Languages -->
 <h4 align="center">
   <img src="https://img.shields.io/badge/⚡_LANGUAGES-Multi--paradigm-0EA5E9?style=for-the-badge&labelColor=001A30" alt="languages"/>
 </h4>
@@ -228,7 +212,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,php,html,css&perline=8&theme=dark" alt="languages"/>
 </p>
 
-<!-- Frameworks -->
 <h4 align="center">
   <img src="https://img.shields.io/badge/🚀_FRAMEWORKS_%26_LIBRARIES-Web%20%26%20Mobile-10B981?style=for-the-badge&labelColor=001A0D" alt="frameworks"/>
 </h4>
@@ -236,7 +219,6 @@
   <img src="https://skillicons.dev/icons?i=angular,dotnet,bootstrap,flutter&perline=8&theme=dark" alt="frameworks"/>
 </p>
 
-<!-- Databases -->
 <h4 align="center">
   <img src="https://img.shields.io/badge/🗄️_DATABASES-Data%20Management-F59E0B?style=for-the-badge&labelColor=1A0E00" alt="databases"/>
 </h4>
@@ -249,7 +231,6 @@
   <img src="https://img.shields.io/badge/SQL%20Server-Microsoft-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white&labelColor=0D1117" alt="mssql"/>
 </p>
 
-<!-- Dev Tools -->
 <h4 align="center">
   <img src="https://img.shields.io/badge/🎨_DESIGN_%26_DEV_TOOLS-Productivity-EC4899?style=for-the-badge&labelColor=1A0010" alt="tools"/>
 </h4>
@@ -265,7 +246,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ██████████████████  CERTIFICATIONS  ██████████████████ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,20&height=52&text=%F0%9F%8F%85%20%20CERTIFICATIONS%20%26%20BADGES&fontSize=22&fontColor=FFD700&fontAlign=50&fontAlignY=55" width="100%" alt="certs"/>
 </p>
@@ -275,7 +255,6 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="12">
 <tr>
 
-<!-- Postman -->
 <td width="33%" align="center" valign="top">
   <img src="https://img.shields.io/badge/📮_POSTMAN-API%20Fundamentals-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=200800" alt="postman cert"/>
   <br/><br/>
@@ -294,7 +273,6 @@
   <img src="https://img.shields.io/badge/Status-Certified-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0D1117" alt="certified"/>
 </td>
 
-<!-- First Class Honours -->
 <td width="34%" align="center" valign="top">
   <img src="https://img.shields.io/badge/🎓_BSc_HONS-First%20Class%20Honours-FFD700?style=for-the-badge&labelColor=1A1400" alt="degree"/>
   <br/><br/>
@@ -313,7 +291,6 @@
   <img src="https://img.shields.io/badge/Grade-First%20Class-FFD700?style=flat-square&labelColor=0D1117" alt="grade"/>
 </td>
 
-<!-- Odoo Expertise -->
 <td width="33%" align="center" valign="top">
   <img src="https://img.shields.io/badge/🟣_ODOO-Functional%20%26%20Technical-7C3AED?style=for-the-badge&labelColor=1A0030" alt="odoo cert"/>
   <br/><br/>
@@ -337,7 +314,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ██████████████████  GITHUB STATS  ██████████████████ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=52&text=%F0%9F%93%8A%20%20GITHUB%20STATISTICS&fontSize=22&fontColor=00FFFF&fontAlign=50&fontAlignY=55" width="100%" alt="stats"/>
 </p>
@@ -362,7 +338,6 @@
 
 <br/>
 
-<!-- SPOKEN LANGUAGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/🗣️_SPOKEN_LANGUAGES-Proficiency%20Rating-C0C0FF?style=for-the-badge&labelColor=0D1117" alt="spoken languages"/>
 </p>
@@ -388,7 +363,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ██████████████████  TROPHIES  ██████████████████ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,20&height=52&text=%F0%9F%8F%86%20%20ACHIEVEMENTS&fontSize=22&fontColor=FFD700&fontAlign=50&fontAlignY=55" width="100%" alt="trophies"/>
 </p>
@@ -399,7 +373,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ██████████████████  ACTIVITY GRAPH  ██████████████████ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,6,20&height=52&text=%F0%9F%93%88%20%20CONTRIBUTION%20TIMELINE&fontSize=22&fontColor=00FFFF&fontAlign=50&fontAlignY=55" width="100%" alt="activity"/>
 </p>
@@ -410,7 +383,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ██████████████████  SNAKE  ██████████████████ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,20&height=52&text=%F0%9F%90%8D%20%20CONTRIBUTION%20SNAKE&fontSize=22&fontColor=C0C0FF&fontAlign=50&fontAlignY=55" width="100%" alt="snake"/>
 </p>
@@ -425,7 +397,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ██████████████████  CONNECT  ██████████████████ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=52&text=%F0%9F%8C%90%20%20LET%27S%20CONNECT&fontSize=22&fontColor=FF6EC7&fontAlign=50&fontAlignY=55" width="100%" alt="connect"/>
 </p>
@@ -456,14 +427,12 @@
 
 <br/>
 
-<!-- Quote banner -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p>
 
 <br/>
 
-<!-- ██████████████████  FOOTER  ██████████████████ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90%20Star%20something%20useful&fontSize=18&fontColor=00FFFF&fontAlignY=62&animation=twinkling" alt="Footer" width="100%"/>
 </p>
