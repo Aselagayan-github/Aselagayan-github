@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.linkedin.com)",
+      "Bash(file \"C:/Users/Asela Gayan/Downloads/Aselagayan-github\"/*)"
+    ]
+  }
+}
