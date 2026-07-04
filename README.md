@@ -355,9 +355,30 @@
 
 <div align="center"><h3>🏆 ACHIEVEMENTS</h3></div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aselagayan-github&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" width="100%"/>
-</p>
+<table align="center" border="0" cellspacing="12" cellpadding="10">
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/ODOO%20EXPERT-v14%20%7C%20v16%20%7C%20v17-7C3AED?style=for-the-badge&logo=odoo&logoColor=white&labelColor=1A0030" alt="Odoo Expert"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/FIRST%20CLASS-HONOURS%20GRADUATE-FFD700?style=for-the-badge&labelColor=1A1400" alt="First Class Honours"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/POSTMAN-API%20CERTIFIED-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=200800" alt="Postman Certified"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/REST%20API-DEVELOPER-00FFFF?style=for-the-badge&labelColor=001A2E" alt="REST API Developer"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/2%2B%20YEARS-PROFESSIONAL-C0C0FF?style=for-the-badge&labelColor=0D0020" alt="2+ Years Experience"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-10B981?style=for-the-badge&labelColor=001A0D" alt="Full Stack Developer"/>
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
@@ -373,9 +394,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aselagayan-github/aselagayan-github/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aselagayan-github/aselagayan-github/output/github-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/aselagayan-github/aselagayan-github/output/github-snake.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aselagayan-github/Aselagayan-github/main/snake/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aselagayan-github/Aselagayan-github/main/snake/github-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Aselagayan-github/Aselagayan-github/main/snake/github-snake.svg" width="100%"/>
   </picture>
 </p>
 
